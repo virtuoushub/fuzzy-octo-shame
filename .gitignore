@@ -1,5 +1,5 @@
 # mvn output directory
-target
+target/
 # source tree auto generated backup file on merge conflict
 *.orig
 # Eclipse shiz
