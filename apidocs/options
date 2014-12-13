@@ -1,0 +1,24 @@
+-classpath
+'/Users/java/.m2/repository/com/google/inject/guice/4.0-beta5/guice-4.0-beta5.jar:/Users/java/.m2/repository/net/java/jinput/jinput/2.0.6/jinput-2.0.6.jar:/Users/java/.m2/repository/org/lwjgl/lwjgl/lwjgl/2.9.1/lwjgl-2.9.1.jar:/Users/java/.m2/repository/net/java/jutils/jutils/1.0.0/jutils-1.0.0.jar:/Users/java/.m2/repository/javax/inject/javax.inject/1/javax.inject-1.jar:/Users/java/.m2/repository/org/slf4j/slf4j-simple/1.7.7/slf4j-simple-1.7.7.jar:/Users/java/.m2/repository/aopalliance/aopalliance/1.0/aopalliance-1.0.jar:/Users/java/.m2/repository/org/lwjgl/lwjgl/lwjgl-platform/2.9.1/lwjgl-platform-2.9.1-natives-windows.jar:/Users/java/.m2/repository/org/lwjgl/lwjgl/lwjgl-platform/2.9.1/lwjgl-platform-2.9.1-natives-osx.jar:/Users/java/.m2/repository/org/lwjgl/lwjgl/lwjgl-platform/2.9.1/lwjgl-platform-2.9.1-natives-linux.jar:/Users/java/.m2/repository/org/slf4j/slf4j-api/1.7.7/slf4j-api-1.7.7.jar:/Users/java/.m2/repository/com/google/guava/guava/16.0.1/guava-16.0.1.jar:/Users/java/.m2/repository/com/google/code/findbugs/annotations/3.0.0/annotations-3.0.0.jar'
+-encoding
+'UTF-8'
+-protected
+-sourcepath
+'/Users/java/git/fuzzy-octo-shame/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2014. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/Users/java/git/fuzzy-octo-shame/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'fuzzy-octo-shame 0.1.9 API'
+-linkoffline
+'http://docs.oracle.com/javase/8/docs/api' '/Users/java/git/fuzzy-octo-shame/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'fuzzy-octo-shame 0.1.9 API'
